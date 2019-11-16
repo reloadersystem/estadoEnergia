@@ -1,5 +1,8 @@
 package ar.reloadersystem.aplicacionrecibe;
 
+/**
+ * Created by Reloader
+ **/
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
